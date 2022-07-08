@@ -74,3 +74,4 @@ R3(config-router)#network 192.168.2.0 0.0.0.255 area 0
 Passive interface
 -----------------
 R3(config)#passive-interface g0/1
+![OSPF MULT AREA](https://user-images.githubusercontent.com/106605770/177992114-9431aa1a-0a02-4661-947a-4d0f1eba6202.jpg)
