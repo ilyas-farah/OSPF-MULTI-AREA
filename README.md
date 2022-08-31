@@ -1,4 +1,4 @@
-# OSPF-MULTI-AREA
+
 OSPF MULTI AREA
 --------------
 
